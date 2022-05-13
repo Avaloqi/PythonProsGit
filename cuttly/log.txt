@@ -1,0 +1,41 @@
+
+2022-05-12 14:55:26.907765 Success
+ date: 2022-05-12
+ short url: https://cutt.ly/THoSLGM
+ fullLink: https://amir-tech.medium.com/how-i-made-my-first-advanced-telegram-bot-using-python-72f1210c0900
+ title: How I made my first advanced telegram bot using python | by Amir Ali Hashemi | Medium
+2022-05-12 14:56:08.119383 Success
+ date: 2022-05-12
+ short url: https://cutt.ly/5HoS0wl
+ fullLink: https://amir-tech.medium.com/how-i-made-my-first-advanced-telegram-bot-using-python-72f1210c0900
+ title: How I made my first advanced telegram bot using python | by Amir Ali Hashemi | Medium
+
+
+2022-05-12 14:57:02.395320 Success
+ date: 2022-05-12
+ short url: https://cutt.ly/RHoDesv
+ fullLink: https://amir-tech.medium.com/how-i-made-my-first-advanced-telegram-bot-using-python-72f1210c0900
+ title: How I made my first advanced telegram bot using python | by Amir Ali Hashemi | Medium
+
+
+2022-05-12 14:57:29.751943 Success
+ date: 2022-05-12
+ short url: https://cutt.ly/5HoDiZn
+ fullLink: https://amir-tech.medium.com/how-i-made-my-first-advanced-telegram-bot-using-python-72f1210c0900
+ title: How I made my first advanced telegram bot using python | by Amir Ali Hashemi | Medium
+
+
+2022-05-12 15:13:24.277339the entered link is not a link
+
+
+2022-05-12 15:13:43.517970the link has already been shortened
+
+
+2022-05-12 15:14:04.814359Invalid API key
+
+
+2022-05-12 15:14:17.957990 Success
+ date: 2022-05-12
+ short url: https://cutt.ly/VHoH9vc
+ fullLink: https://docs.djangoproject.com/zh-hans/4.0/intro/reusable-apps/#publishing-your-app
+ title: 进阶指南：如何编写可重用程序 | Django 文档 | Django
